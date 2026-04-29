@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "doc1",
+      "description": "Male medical doctor in white coat",
+      "imageUrl": "https://picsum.photos/seed/doc1/400/400",
+      "imageHint": "medical doctor"
+    },
+    {
+      "id": "doc2",
+      "description": "Female medical doctor with stethoscope",
+      "imageUrl": "https://picsum.photos/seed/doc2/400/400",
+      "imageHint": "female doctor"
+    },
+    {
+      "id": "doc3",
+      "description": "Experienced male cardiologist",
+      "imageUrl": "https://picsum.photos/seed/doc3/400/400",
+      "imageHint": "cardiologist"
+    },
+    {
+      "id": "doc4",
+      "description": "Professional female dermatologist",
+      "imageUrl": "https://picsum.photos/seed/doc4/400/400",
+      "imageHint": "dermatologist"
+    },
+    {
+      "id": "doc5",
+      "description": "Young male pediatrician",
+      "imageUrl": "https://picsum.photos/seed/doc5/400/400",
+      "imageHint": "pediatrician"
+    },
+    {
+      "id": "doc6",
+      "description": "Friendly female ophthalmologist",
+      "imageUrl": "https://picsum.photos/seed/doc6/400/400",
+      "imageHint": "ophthalmologist"
+    }
+  ]
+}
